@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-/app/src/main/res/layout/activity_biography.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-/app/src/main/res/layout/activity_fallhafez.xml" value="0.23376623376623376" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-/app/src/main/res/layout/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-/app/src/main/res/layout/bio_item.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-2/app/src/main/res/layout/activity_biography.xml" value="0.265625" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-2/app/src/main/res/layout/activity_fallhafez.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject-2/app/src/main/res/layout/activity_main.xml" value="0.25407608695652173" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject/app/src/main/res/font/b612.xml" value="0.2916666666666667" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject/app/src/main/res/layout/activity_biography.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject/app/src/main/res/layout/activity_fallhafez.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/lenovo/AndroidStudioProjects/Ganjoorfinalproject/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/mmm/b/Ganjoorfinalproject-/app/src/main/res/layout/activity_biography.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/mmm/b/Ganjoorfinalproject-/app/src/main/res/layout/activity_fallhafez.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/mmm/b/Ganjoorfinalproject-/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/mmm/b/Ganjoorfinalproject-/app/src/main/res/layout/bio_item.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/mmm/b/Ganjoorfinalproject-/app/src/main/res/layout/fragment_first.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/mmm/b/Ganjoorfinalproject-/app/src/main/res/layout/fragment_second.xml" value="0.25317028985507245" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/font/b612.xml" value="0.12314814814814815" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/activity_biography.xml" value="0.2" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/activity_fallhafez.xml" value="0.264" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/bio_item.xml" value="0.2" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/content_activity_fallhafez.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/younes/Desktop/temp/android/Ganjoorfinalproject/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
